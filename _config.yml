@@ -5,13 +5,13 @@ version: 2
 
 # Personal info
 name: "Muhammad Umer"
-title: "CS Student | AI & Full-Stack Developer"
+title: "CS Student | Developer"
 email: "26100150@lums.edu.pk"
 phone: "+92-300-2428482"
 github_username: "muhammadumer1233"
 linkedin_username: "muhammad-umer-96a7a1216"
 darkmode: false
-about_profile_image: "images/profilepicture.png"
+about_profile_image: "images/profilepicture.jpg"
 about_content: |
   Computer Science student at LUMS with strong interest in AI systems, full-stack development, and real-time applications.
   I enjoy building intelligent systems that combine machine learning with practical software engineering.
@@ -45,7 +45,7 @@ content:
       - layout: left
         title: AI Chatbot for Nikkah Nima
         link: github.com/muhammadumer1233
-        caption: "2024 - 2025"
+        caption: "April 2026"
         description: |
           - Built LLM chatbot using Google Gemini API
           - Designed structured conversational flows
@@ -62,18 +62,6 @@ content:
           - Implemented matchmaking + anti-cheat logic
           - Optimized low-latency gameplay systems
 
-  - title: Experience
-    layout: list
-    content:
-      - layout: left
-        title: Nikkah Nima
-        sub_title: AI Developer (Freelance)
-        caption: "2024 - 2025"
-        link: nikkahnima.com
-        description: |
-          Designed and integrated an LLM-powered chatbot using the Google Gemini API.
-          Handled prompt engineering, conversational flow design, and backend API integration
-          to deliver a personalized user experience on the platform.
 
   - title: Education
     layout: list
@@ -103,7 +91,6 @@ content:
     layout: text
     content: |
       Alongside my interest in AI and software engineering, some of my other interests and hobbies are:
-      - Competitive programming
       - Open source contributions
       - Reading about AI research
       - Cricket
