@@ -1,7 +1,6 @@
 # Site
 repository: "muhammadumer1233/muhammadumer1233.github.io"
 remote_theme: sproogen/modern-resume-theme
-
 version: 2
 
 # Personal info
@@ -11,13 +10,10 @@ email: "26100150@lums.edu.pk"
 phone: "+92-300-2428482"
 github_username: "muhammadumer1233"
 linkedin_username: "muhammad-umer-96a7a1216"
-
 darkmode: false
-
 about_profile_image: "images/profile.jpg"
-
 about_content: |
-  Computer Science student at LUMS with strong interest in AI systems, full-stack development, and real-time applications.  
+  Computer Science student at LUMS with strong interest in AI systems, full-stack development, and real-time applications.
   I enjoy building intelligent systems that combine machine learning with practical software engineering.
 
 content:
@@ -27,7 +23,7 @@ content:
       - layout: top-right
         title: Lahore University of Management Sciences (LUMS)
         sub_title: BS Computer Science
-        caption: "2022 – 2026"
+        caption: "2022 - 2026"
         description: |
           Relevant Coursework:
           Data Structures & Algorithms, Operating Systems, Software Engineering, Machine Learning,
@@ -37,48 +33,46 @@ content:
     layout: list
     content:
       - layout: left
-        title: MindBloom: AI Study Behavior System
-        caption: "Sep 2025 – Present"
+        title: MindBloom - AI Study Behavior System
+        caption: "Sep 2025 - Present"
         description: |
-          - Built AI-powered study assistant with focus mode, flashcards, and gamification  
-          - Designed ML pipelines using StudentLife, EdNet, ASSIST datasets  
-          - Developed context-aware interventions for cognitive state prediction  
-          - Implemented notes system with Playwright testing  
-          - Applied privacy-aware AI design principles  
+          - Built AI-powered study assistant with focus mode, flashcards, and gamification
+          - Designed ML pipelines using StudentLife, EdNet, ASSIST datasets
+          - Developed context-aware interventions for cognitive state prediction
+          - Implemented notes system with Playwright testing
+          - Applied privacy-aware AI design principles
 
       - layout: left
-        title: Qatra Hayat – Blood Donation Platform
-        caption: "Jan 2025 – Jun 2025"
+        title: Qatra Hayat - Blood Donation Platform
+        caption: "Jan 2025 - Jun 2025"
         description: |
-          - Built Flutter + Firebase real-time donor matching system  
-          - Designed Firestore scalable architecture  
-          - Implemented chat + push notifications  
-          - Built donor rating system + AI chatbot  
-          - Added secure authentication & role-based access control  
+          - Built Flutter + Firebase real-time donor matching system
+          - Designed Firestore scalable architecture
+          - Implemented chat + push notifications
+          - Built donor rating system + AI chatbot
+          - Added secure authentication & role-based access control
 
       - layout: left
         title: AI Chatbot for Nikkah Nima
-        caption: "2024 – 2025"
+        caption: "2024 - 2025"
         description: |
-          - Built LLM chatbot using Google Gemini API  
-          - Designed structured conversational flows  
-          - Improved engagement with prompt engineering  
-          - Integrated backend APIs for personalization  
+          - Built LLM chatbot using Google Gemini API
+          - Designed structured conversational flows
+          - Improved engagement with prompt engineering
+          - Integrated backend APIs for personalization
 
       - layout: left
         title: ColorGrid Multiplayer Game
         caption: "Apr 2025"
         description: |
-          - Built real-time multiplayer game using Socket.IO  
-          - Designed MERN stack backend architecture  
-          - Implemented matchmaking + anti-cheat logic  
-          - Optimized low-latency gameplay systems  
+          - Built real-time multiplayer game using Socket.IO
+          - Designed MERN stack backend architecture
+          - Implemented matchmaking + anti-cheat logic
+          - Optimized low-latency gameplay systems
 
   - title: Technical Skills
     layout: text
     content: |
-      Languages: Python, C/C++, JavaScript/TypeScript, C#, SQL, Dart, MATLAB, Haskell  
-
-      Frameworks: React, Node.js, Express, Flutter, Firebase, PyTorch, TensorFlow, Scikit-learn  
-
+      Languages: Python, C/C++, JavaScript/TypeScript, C#, SQL, Dart, MATLAB, Haskell
+      Frameworks: React, Node.js, Express, Flutter, Firebase, PyTorch, TensorFlow, Scikit-learn
       Tools: Docker, Git/GitHub, Postman, VS Code, Android Studio, MongoDB, Figma, Playwright, Vercel, Gemini API
